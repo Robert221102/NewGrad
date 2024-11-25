@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cybersecurity Awareness Platform</title>
+    <title>CyberWise</title>
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <!-- Inline Styles -->
@@ -100,7 +100,7 @@
 </head>
 <body>
     <header>
-        <h1>Cybersecurity Awareness Training Platform</h1>
+        <h1>CyberWise</h1>
         <a href="#">Add New Simulation</a>
     </header>
     <main class="content">
